@@ -23,6 +23,8 @@ public class App extends Application {
        pane.setAlignment(Pos.CENTER);
        pane.setPadding(new Insets(10,10,10,10));
 
+       group.scaleXProperty().bind(pane.widthProperty().divide(400));
+       group.scaleYProperty().bind(pane.heightProperty().divide(400));
 
        //Draw the top part first
        Arc arcTopOne = new Arc(100,100,100,50,0,180);
