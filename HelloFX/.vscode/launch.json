@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"vmArgs": "--module-path \"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"vmArgs": "--module-path \"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App"
+		}
+	]
+}

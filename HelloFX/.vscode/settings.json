@@ -1,0 +1,17 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.base.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.controls.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.fxml.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.graphics.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.media.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.swing.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx.web.jar",
+		"/home/kelvino/Y Daniel Liang-Introduction to Java comprehensive version/Chapter14.(Basic JavaFX)/lib/javafx-swt.ja"
+	]
+}
