@@ -1,0 +1,25 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.base.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.controls.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.fxml.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.graphics.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.media.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.swing.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx.web.jar",
+		"/home/kelvino/Git/Y-Daniel-Liang---Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Pearson/lib/javafx-swt.ja",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx-swt.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.web.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.swing.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.media.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.controls.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.base.jar"
+	]
+}
