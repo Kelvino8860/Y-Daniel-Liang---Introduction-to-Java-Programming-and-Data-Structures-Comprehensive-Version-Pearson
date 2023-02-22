@@ -12,6 +12,14 @@
 		"/javafx.media.jar",
 		"/javafx.swing.jar",
 		"/javafx.web.jar",
-		"/javafx-swt.ja"
+		"/javafx-swt.ja",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx-swt.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.web.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.swing.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.media.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.controls.jar",
+		"/home/kelvino/Downloads/javafx-sdk-19.0.2.1/lib/javafx.base.jar"
 	]
 }
